@@ -32,11 +32,11 @@ Application de gestion de bibliothèque pour l'IHEC, permettant d'administrer le
 
 Les captures sont disponibles dans le dossier `Capture/`, par exemple :
 ### 🏠 Écran d'accueil
-![Accueil](Capture/accueil.png)
+![Accueil](Capture/acceuil.png.png)
 ### ➕ inscription
-![inscription](Capture/inscription.png)
+![inscription](Capture/inscription.png.png)
 ### login
-![login](Capture/login.png)
+![login](Capture/login.png.png)
 
 
 ## 👤 Auteur
@@ -47,6 +47,7 @@ Les captures sont disponibles dans le dossier `Capture/`, par exemple :
 ## 📄 Licence
 
 [À préciser : MIT, propriétaire, etc.]
+
 
 
 
